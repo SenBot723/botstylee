@@ -139,8 +139,8 @@ global.APIKeys = { // APIKey Here
 // Sticker WM
 global.packname = 'Senbot Sticker\'SenBOT'
 global.author = 'BENNIISMAEL & GHOST'
-global.wm = 'BOTSTYLEE'
-global.nomorown = '62895368900456'
+global.wm = 'SenBOT'
+global.nomorown = '6282314858723'
 global.multiplier = 69 // The higher, The harder levelup
 global.titlebot = `⫹⫺ RPG BOT Whatsapp | By ${author}`
 global.rpg = {
