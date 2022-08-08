@@ -115,6 +115,7 @@ global.log = function log() {
 	console.log.apply(console, args);
 }
 global.owner = [
+        //['6282314858723'],
 	//  ['6281234288573'],
 	//['12546153210'],
 	//['62895368900456'],
@@ -136,7 +137,7 @@ global.APIKeys = { // APIKey Here
 	'https://ghostui-api.herokuapp.com/': 'OC2eTK'
 }
 // Sticker WM
-global.packname = 'ig : Beni_230\'Benniismael'
+global.packname = 'Senbot Sticker\'SenBOT'
 global.author = 'BENNIISMAEL & GHOST'
 global.wm = 'BOTSTYLEE'
 global.nomorown = '62895368900456'
