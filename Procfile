@@ -1,1 +1,1 @@
-web: node . anu --server
+worker: node . anu --'session.json'
