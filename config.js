@@ -115,16 +115,12 @@ global.log = function log() {
 	console.log.apply(console, args);
 }
 global.owner = [
-        //['6282314858723'],
-	//  ['6281234288573'],
-	//['12546153210'],
-	//['62895368900456'],
-	['62895368900456', 'Benniismael', true]
+           ['6282314858723', 'Yoga Fajar P', true]
 	// [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
-global.APIs = { // API Prefix
+global.APIs = { // API Pr
 	// name: 'https://website'
 	nrtm: 'https://nurutomo.herokuapp.com/',
 	ghst: 'https://ghostui-api.herokuapp.com/',
@@ -137,8 +133,8 @@ global.APIKeys = { // APIKey Here
 	'https://ghostui-api.herokuapp.com/': 'OC2eTK'
 }
 // Sticker WM
-global.packname = 'Senbot Sticker\'SenBOT'
-global.author = 'BENNIISMAEL & GHOST'
+global.packname = 'Senbot Sticker'
+global.author = 'SenBOT'
 global.wm = 'SenBOT'
 global.nomorown = '6282314858723'
 global.multiplier = 69 // The higher, The harder levelup
